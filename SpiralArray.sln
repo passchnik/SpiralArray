@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralArray", "SpiralArray\SpiralArray.csproj", "{E8C9E3DC-A8AD-4C6A-942A-27010C31CA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C9E3DC-A8AD-4C6A-942A-27010C31CA70}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{E8C9E3DC-A8AD-4C6A-942A-27010C31CA70}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{E8C9E3DC-A8AD-4C6A-942A-27010C31CA70}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{E8C9E3DC-A8AD-4C6A-942A-27010C31CA70}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0129ECA9-7AED-4FCE-904A-B754160AE6EC}
+	EndGlobalSection
+EndGlobal
